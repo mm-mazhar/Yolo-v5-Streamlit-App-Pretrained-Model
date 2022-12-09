@@ -16,6 +16,7 @@
 - `conda list`
 - `python.exe -m pip install -r tfod1_requirements.txt --user`
 
+#### Click Here To Watch The Video
 [![asciicast](https://i.imgur.com/byhJU8x.jpg)](https://youtu.be/tUXz-_MCrPI)
 
 
