@@ -16,12 +16,7 @@
 - `conda list`
 - `python.exe -m pip install -r tfod1_requirements.txt --user`
 
-<table style="width:100%">
-    <tr>
-        <td>[![Click Here to Watch the video](https://i.imgur.com/byhJU8x.jpg)](https://youtu.be/tUXz-_MCrPI)</td>
-    </tr>
-</table>
-
+[![asciicast](https://i.imgur.com/byhJU8x.jpg)](https://youtu.be/tUXz-_MCrPI)
 
 
 
