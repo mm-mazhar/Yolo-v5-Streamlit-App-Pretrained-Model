@@ -2,7 +2,7 @@
 
 - `git clone "https://github.com/mazqoty/Yolo-v5-Streamlit-App-Pretrained-Model.git"`
 - cd into newly created folder
-- `conda create -n envyolov5 pip python=3.9` or `python -m venv envyolov5`
+- `conda create -n envyolov5` or `python -m venv envyolov5`
 - `conda activate envyolov5` or `.\envyolov5\Scripts\activate` for Windows `source envyolov5/bin/activate` for Linux
 - RUN
     For Windows `python ./yolov5setup.py`
