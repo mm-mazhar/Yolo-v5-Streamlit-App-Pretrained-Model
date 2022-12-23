@@ -1,6 +1,7 @@
 # Yolo V5 | Streamlit App | Multiple Object Detection on Pretrained Model
 
 - `git clone "https://github.com/mazqoty/Yolo-v5-Streamlit-App-Pretrained-Model.git"`
+- cd <newly Created folder>
 - `conda create -n envyolov5 pip python=3.9` or `python -m venv envyolov5`
 - `conda activate envyolov5` or `.\envyolov5\Scripts\activate` for Windows `source envyolov5/bin/activate` for Linux
 - RUN
