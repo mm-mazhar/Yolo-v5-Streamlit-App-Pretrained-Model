@@ -3,8 +3,8 @@ import os, shutil
 
 files = ['app.py', 'sampleVideo0.mp4']
 
-cmd = "pip install -r requirements.txt"
-subprocess.run(cmd, shell = True)
+# cmd = "pip install -r requirements.txt"
+# subprocess.run(cmd, shell = True)
         
 print("#################### Downloading Yolo V5 Model Repo ")
 cmd = "git clone https://github.com/ultralytics/yolov5"
